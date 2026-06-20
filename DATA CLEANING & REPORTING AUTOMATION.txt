@@ -1,0 +1,35 @@
+DATA CLEANING & REPORTING AUTOMATION - INSIGHTS
+
+1. Data Cleaning Process
+- Imported the Superstore dataset into Power BI.
+- Removed duplicate records to improve data quality.
+- Applied text cleaning and trimming to standardize textual data.
+- Verified and corrected data types for numerical and date fields.
+- Improved dataset consistency for reporting and analysis.
+
+2. Key Dashboard Metrics
+- Total Sales: 2.30M
+- Total Profit: 286.40K
+
+3. Sales Analysis
+- Technology category generated the highest sales among all categories.
+- Furniture and Office Supplies also contributed significantly to overall revenue.
+- Sales were distributed across all regions, with the West region contributing the largest share.
+
+4. Regional Performance
+- West region recorded the highest sales.
+- East region showed strong sales performance.
+- Central and South regions contributed moderate sales volumes.
+
+5. Trend Analysis
+- Sales trends varied over time based on order dates.
+- The dashboard helps identify sales patterns and performance fluctuations.
+
+6. Business Benefits
+- Automated data cleaning reduces manual effort and errors.
+- Interactive dashboards provide quick access to business insights.
+- Improved reporting efficiency supports faster decision-making.
+- Data preprocessing ensures more reliable and accurate analysis.
+
+Conclusion:
+This project demonstrates how Power BI can be used to automate data cleaning and reporting workflows. The resulting dashboard provides clear insights into sales performance, profit generation, category-wise contribution, regional distribution, and sales trends, enabling efficient data-driven decision-making.
